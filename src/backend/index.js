@@ -13,6 +13,7 @@ app.use(
 	})
 );
 
+//Creating the database connection
 const db = mongoose.createConnection(
 	"mongodb://localhost:27017/OTPverification",
 	{
