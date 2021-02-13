@@ -18,9 +18,12 @@ The Application Runs on **localhost:3000**
 ## Starting the backend server
 
 You'll need to have MongoDB installed.
-Type 
+
+In the terminal type this command 
+
 ```bash
 npm run backend
 ```
-to connect to the database and start the server.
+This should connect the app to the database and also start the server.
+
 The server runs on port 8080.
