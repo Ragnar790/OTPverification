@@ -1,14 +1,14 @@
 # Cloning and Running the Application in local
 
-### Clone the project into local
+ Clone the project into local
 
-### Install all the npm packages. In the terminal go to the project directory and type the following command to install all the dependencies
+ Install all the npm packages. In the terminal go to the project directory and type the following command to install all the dependencies
 
 ```bash
 npm install
 ```
 
-### Typing this command should automatically start the app locally on your default browser.
+ Typing this command should automatically start the app locally on your default browser.
 
 ```bash
 npm start
